@@ -1,9 +1,9 @@
 # Hi 👋 来自中国贼业余的选手.
 
-- 👩‍💻 Software Engineering Sophomore
-- 👧🏻 Normal college girl
-- 📝 Use NodeJS backend, Vue.JS or React for frontend
-- 🌟 Make something to improve my life
+- 👩‍💻 office worker
+- 你有洁癖，而我刚好是垃圾
+- 📝 busy with work
+- 🌟 Just like you
 - 💕 Opensource
 
 [Homepage (zh)](https://clansty.com) · [Blog (zh)](https://nyac.at) · About ([zh](https://clansty.com/about?lang=zh) / [en](https://clansty.com/about?lang=en)) · [Sponsor](https://feed.lwqwq.com)
