@@ -1,4 +1,4 @@
-# Hi 👋 Clansty here.
+# Hi 👋 Disappointed_997.
 
 - 👩‍💻 Software Engineering Sophomore
 - 👧🏻 Normal college girl
