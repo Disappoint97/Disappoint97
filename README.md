@@ -1,7 +1,7 @@
 # Hi 👋 来自中国贼业余的选手.
 
 - 👩‍💻 office worker
-- 你有洁癖，而我刚好是垃圾
+- 我有洁癖，而你刚好是垃圾
 - 📝 busy with work
 - 🌟 Just like you
 - 💕 Opensource
